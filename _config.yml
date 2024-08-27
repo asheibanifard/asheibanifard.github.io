@@ -2,7 +2,7 @@ title: "3D Medical Image Representation and Rendering(3DMIRR)"
 email: "asheibanifard@bournemouth.ac.uk"
 description: "This page is dedicated to 3D medical image representaion and rendering using variable rendering techniques. A collection of SOTA works in this field to keep the user update"
 baseurl: "asheibanifard.github.io"
-url: "https://asheibanifard.github.io/neurohub" # Replace with your URL
+url: "https://asheibanifard.github.io/" # Replace with your URL
 theme: jekyll-theme-cayman # You can change this to another theme later
 
 # Navigation links
